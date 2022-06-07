@@ -9,8 +9,5 @@
 수정6local
 수정6origin
 수정7local
-<<<<<<< HEAD
 수정8origin
-=======
 수정8local
->>>>>>> 2c312e2 (5.txt수정8local)
