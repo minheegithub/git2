@@ -2,8 +2,5 @@
 5+5(fixbranch)
 수정2conflict2
 수정3local
-<<<<<<< HEAD
 수정4local
-=======
 수정4origin
->>>>>>> 5b4e9b16d80b076862a4309fa064b2afd38445ef
