@@ -8,4 +8,8 @@
 수정5origin
 수정6local
 수정6origin
+<<<<<<< HEAD
 수정7origin
+=======
+수정7local
+>>>>>>> 902ea4c (5.txt수정7local)
