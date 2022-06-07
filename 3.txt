@@ -3,4 +3,8 @@
 수정sourcetree
 수정3local
 수정4origin
+<<<<<<< HEAD
 수정5origin
+=======
+수정5local
+>>>>>>> 414ecdb (3.txt수정5 local)
