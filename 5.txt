@@ -4,4 +4,8 @@
 수정3local
 수정4local
 수정4origin
+<<<<<<< HEAD
 수정5local
+=======
+수정5origin
+>>>>>>> 74029f5816a4fa152f9e24564315278a93f524bf
